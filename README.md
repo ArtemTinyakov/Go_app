@@ -1,1 +1,1 @@
-# Go_app
+# First Golang app!
